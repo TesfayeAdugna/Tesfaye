@@ -1,2 +1,2 @@
 # The Front page looks the following
-![Home page](./home.png)
+![Home page](public/home.png)
